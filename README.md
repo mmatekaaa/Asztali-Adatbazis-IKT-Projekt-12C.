@@ -1,0 +1,1 @@
+# Asztali-Adatbazis-IKT-Projekt-12C.
