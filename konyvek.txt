@@ -1,0 +1,19 @@
+1;J.K. Rowling;Harry Potter és a Bölcsek Köve;1997;320;4500;Ifjúsági 
+
+2;George Orwell;1984;1949;328;3800;Regény 
+
+3;Isaac Asimov;Alapítvány;1951;256;4200;Sci-fi 
+
+4;Yuval Noah Harari;Sapiens;2011;512;5990;Tudomány 
+
+5;Robert C. Martin;Tiszta kód;2008;464;7500;Informatika 
+
+6;Stephen Hawking;Az idő rövid története;1988;256;4100;Tudomány 
+
+7;J.R.R. Tolkien;A Gyűrűk Ura;1954;1216;9900;Fantasy 
+
+8;Frank Herbert;Dűne;1965;688;5600;Sci-fi 
+
+9;Daniel Kahneman;Gyors és lassú gondolkodás;2011;624;6200;Pszichológia 
+
+10;Andrew Hunt;A pragmatikus programozó;2019;352;6800;Informatika
